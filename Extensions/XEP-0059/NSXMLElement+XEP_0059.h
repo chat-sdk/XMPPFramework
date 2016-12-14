@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 
-@import KissXML;
+#import <KissXML/KissXML.h>
 
 @class XMPPResultSet;
 
