@@ -1,5 +1,14 @@
 
+## XMPP Chat SDK for iOS
+
+This fork of the XMPPFramework is maintained by [IndyApps](http://indyapps.co) for the [XMPP Chat SDK for iOS](http://chatsdk.co/downloads/xmpp-chat-sdk-for-ios/). 
+
+The XMPP Chat SDK is a fully featured white label XMPP messenger for iOS.
+
+----
+
 ![XMPPFramework](xmppframework.png)
+
 
 ## XMPPFramework
 [![Build Status](https://travis-ci.org/robbiehanson/XMPPFramework.svg?branch=master)](https://travis-ci.org/robbiehanson/XMPPFramework) [![Version Status](https://img.shields.io/cocoapods/v/XMPPFramework.svg?style=flat)](https://github.com/robbiehanson/XMPPFramework) [![Platform](https://img.shields.io/cocoapods/p/XMPPFramework.svg?style=flat)](https://cocoapods.org/?q=XMPPFramework) [![License (3-Clause BSD)](https://img.shields.io/badge/license-BSD%203--Clause-orange.svg?style=flat)](http://opensource.org/licenses/BSD-3-Clause)
